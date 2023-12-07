@@ -1,6 +1,7 @@
 import Summary from "../../components/Summary";
 import { Header } from "../../components/Header";
 import { PriceHighLight, TransactionsContainer, TransactionsTable } from "./styles";
+import { SearchForm } from "../../components/SearchForm";
 
 export const Transactions = () => {
     return (
@@ -9,6 +10,7 @@ export const Transactions = () => {
             <Summary />
 
             <TransactionsContainer>
+                <SearchForm/>
                 <TransactionsTable>
                     <tbody>
                         <tr>
