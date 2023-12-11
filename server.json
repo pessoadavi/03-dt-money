@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "descrição 12",
+      "type": "income",
+      "category": "venda",
+      "price": "R$15,00",
+      "createdAt": "2023-12-11T17:33:33.179Z"
+    },
+    {
+      "id": 2,
+      "description": "descrição 234",
+      "type": "outcome",
+      "category": "compra",
+      "price": "R$25,00",
+      "createdAt": "2023-12-11T17:20:33.179Z"
+    },
+    {
+      "id": 3,
+      "description": "descrição 43545",
+      "type": "income",
+      "category": "venda",
+      "price": "R$20,00",
+      "createdAt": "2023-12-11T17:14:33.179Z"
+    }
+  ]
+}
