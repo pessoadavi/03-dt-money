@@ -5,7 +5,7 @@
       "description": "descrição 12",
       "type": "income",
       "category": "venda",
-      "price": "R$15,00",
+      "price": 15,
       "createdAt": "2023-12-11T17:33:33.179Z"
     },
     {
@@ -13,7 +13,7 @@
       "description": "descrição 234",
       "type": "outcome",
       "category": "compra",
-      "price": "R$25,00",
+      "price": -25,
       "createdAt": "2023-12-11T17:20:33.179Z"
     },
     {
@@ -21,7 +21,7 @@
       "description": "descrição 43545",
       "type": "income",
       "category": "venda",
-      "price": "R$20,00",
+      "price": 20,
       "createdAt": "2023-12-11T17:14:33.179Z"
     }
   ]
