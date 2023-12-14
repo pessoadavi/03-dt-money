@@ -13,7 +13,7 @@
       "description": "descrição 234",
       "type": "outcome",
       "category": "compra",
-      "price": -25,
+      "price": 25,
       "createdAt": "2023-12-11T17:20:33.179Z"
     },
     {
