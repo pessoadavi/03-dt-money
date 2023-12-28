@@ -2,7 +2,7 @@
   "transactions": [
     {
       "id": 1,
-      "description": "descrição 12",
+      "description": "rafaela",
       "type": "income",
       "category": "venda",
       "price": 15,
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "description": "descrição 234",
+      "description": "davi",
       "type": "outcome",
       "category": "compra",
       "price": 25,
@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "description": "descrição 43545",
+      "description": "pedro enzo",
       "type": "income",
       "category": "venda",
       "price": 20,

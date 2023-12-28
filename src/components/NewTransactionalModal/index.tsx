@@ -58,7 +58,6 @@ const NewTransactionalModal = () => {
                             name='type'
                             control={control}
                             render={(props) => {
-                                console.log(props)
                                 return (
                                     <TransactionType
                                         value={props.field.value}
