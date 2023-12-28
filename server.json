@@ -6,7 +6,7 @@
       "type": "income",
       "category": "venda",
       "price": 15,
-      "createdAt": "2023-12-11T17:33:33.179Z"
+      "createdAt": "2023-12-17T17:33:33.179Z"
     },
     {
       "id": 2,
@@ -22,7 +22,31 @@
       "type": "income",
       "category": "venda",
       "price": 20,
-      "createdAt": "2023-12-11T17:14:33.179Z"
+      "createdAt": "2023-12-20T17:14:33.179Z"
+    },
+    {
+      "category": "agiota",
+      "description": "nova transação",
+      "price": 500,
+      "type": "outcome",
+      "createdAt": "2023-12-13T17:41:06.157Z",
+      "id": 4
+    },
+    {
+      "category": "pagamentos",
+      "description": "salario",
+      "price": 2000,
+      "type": "income",
+      "createdAt": "2023-12-28T17:55:01.322Z",
+      "id": 5
+    },
+    {
+      "category": "computador",
+      "description": "fone de ouvido",
+      "price": 528,
+      "type": "outcome",
+      "createdAt": "2023-12-28T18:36:08.494Z",
+      "id": 6
     }
   ]
 }
